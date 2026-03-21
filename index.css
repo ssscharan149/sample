@@ -13,3 +13,8 @@ h1{
   background-color: black;
   cursor: pointer;
 }
+
+.button2{
+  color:blue;
+  background-color:yellow ; 
+}
