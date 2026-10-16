@@ -4,6 +4,7 @@ class Main{
   }
   public static void main(String [] args){
     func("Heyloo");
+    System.out.println();
   }
-
+  
 }
